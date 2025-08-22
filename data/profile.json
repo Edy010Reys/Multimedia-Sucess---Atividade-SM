@@ -1,6 +1,6 @@
 {
     "name": "Francisco Edson.",
-    "photo": "",
+    "photo": "https://avatars.githubusercontent.com/u/151585338?v=4",
     "job": "Acadêmico em Ciência da Computação",
     "location": "Parnaíba - PI",
     "linkedin": "https://www.linkedin.com/in/francisco-edson-dos-reis-vasconcelos-a33413238/",
@@ -23,7 +23,8 @@
             "period": {
                 "start": "2018",
                 "end": "2020"
-            }
+            },
+            "certificate": ""
         },
         {
             "training": "Bacharelado em Ciência da Computação",
