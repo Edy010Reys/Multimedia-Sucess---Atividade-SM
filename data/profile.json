@@ -40,36 +40,6 @@
                 "end": "2024"
             },
             "certificate": ""
-        },
-        {
-            "training": "Bootcamp: Potência Tech iFood Programação do Zero",
-            "institution": "DIO",
-            "period": {
-                "start": "",
-                "end": ""
-            },
-            "certificate": "https://hermes.dio.me/certificates/65852430.pdf"
-        },
-        {
-            "training": "Formação Lógica de Programação",
-            "institution": "DIO",
-            "period": {
-                "start": "",
-                "end": ""
-            },
-            "certificate": "https://hermes.dio.me/certificates/BXGIQQHL.pdf"
-        }
-    ],
-    "portfolio": [
-        {
-            "name": "Currículo Digital - React e SCSS",
-            "url": "https://github.com/JosielJrr/curriculo-digital-react-scss",
-            "github": "true"
-        },
-        {
-            "name": "Spotify Home Page - React",
-            "url": "https://github.com/JosielJrr/spotify-homepage-react",
-            "github": "true"
         }
     ],
     "experience": [
