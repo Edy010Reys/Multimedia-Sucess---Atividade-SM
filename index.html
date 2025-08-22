@@ -1,11 +1,148 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minha Página</title>
+    <!-- Metadados básicos -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="assets/image/icons/favicon.png" type="image/x-icon" />
+    <title>Portfólio do Francisco Edson</title>
+
+    <!-- Normalize CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+        integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
+        rel="stylesheet" />
+
+    <!-- Estilos CSS -->
+    <link rel="stylesheet" href="assets/css/global.css" />
+    <link rel="stylesheet" href="assets/css/header.css" />
+    <link rel="stylesheet" href="assets/css/acordeon.css" />
+    <link rel="stylesheet" href="assets/css/languages.css" />
+    <link rel="stylesheet" href="assets/css/education.css" />
+    <link rel="stylesheet" href="assets/css/portfolio.css" />
+    <link rel="stylesheet" href="assets/css/experience.css" />
+    <link rel="stylesheet" href="assets/css/skills.css" />
+    <link rel="stylesheet" href="assets/css/footer.css" />
 </head>
+
+
 <body>
-    <h1>Olá</h1>
+    <main class="main">
+        <header>
+            <img src="assets/image/my-photo.png" alt="Foto de Perfil" class="photo" id="profile-photo" />
+
+            <h1 class="title">
+                Olá, <br />eu sou <span id="profile-name">Carregando...</span>
+            </h1>
+
+            <div class="information">
+                <p class="job" id="profile-job">Carregando...</p>
+                <p class="location" id="profile-location">Carregando...</p>
+                <p class="linkedin">
+                    <a href="#" target="_blank" id="profile-linkedin">
+                        LinkedIn
+                    </a>
+                </p>
+                <p class="resume">
+                    <a href="#" target="_blank" id="profile-resume">Currículo</a>
+                </p>
+                <!-- <p class="phone">
+                    <a href="tel:+5581986061838" target="_blank" id="profile-phone">Carregando...</a>
+                </p> -->
+                <p class="email">
+                    <a href="#" id="profile-email">Carregando...</a>
+                </p>
+            </div>
+        </header>
+
+        <section class="acordeon">
+            <button class="trigger" type="button">
+                <h2>Skills</h2>
+            </button>
+
+            <div class="content">
+                <div class="skills">
+                    <section class="tools">
+                        <h3>Habilidades Técnicas:</h3>
+                        <ul id="skills-hard">
+                            <!-- hardSkills -->
+                        </ul>
+                    </section>
+
+                    <section class="personal">
+                        <h3>Habilidades Comportamentais:</h3>
+                        <ul id="skills-soft">
+                            <!-- softSkills -->
+                        </ul>
+                    </section>
+                </div>
+            </div>
+        </section>
+
+        <section class="acordeon">
+            <button class="trigger" type="button">
+                <h2>Idiomas</h2>
+            </button>
+
+            <div class="content">
+                <ul class="languages" id="languages-list">
+                    <!-- Idiomas -->
+                </ul>
+            </div>
+        </section>
+
+        <section class="acordeon">
+            <button class="trigger" type="button">
+                <h2>Educação</h2>
+            </button>
+
+            <div class="content">
+                <ul class="education" id="education-list">
+                    <!-- Lista de cursos e qualificações -->
+                </ul>
+            </div>
+        </section>
+
+        <section class="acordeon">
+            <button class="trigger" type="button">
+                <h2>Projetos</h2>
+            </button>
+
+            <div class="content">
+                <ul class="portfolio" id="portfolio-list">
+                    <!-- Lista de Projetos -->
+                </ul>
+            </div>
+        </section>
+
+        <section class="acordeon">
+            <button class="trigger" type="button">
+                <h2>Experiências Profissionais</h2>
+            </button>
+
+            <div class="content">
+                <ul class="experience" id="experience-list">
+                    <!-- Lista de Experiências profissionais -->
+                </ul>
+            </div>
+        </section>
+
+        <footer>
+            <a href="https://www.dio.me/" target="_blank">
+                <img src="assets/image/dio.svg" alt="Logo DIO" />
+            </a>
+        </footer>
+    </main>
+
+    <script src="assets/js/acordeon.js"></script>
+    <script src="assets/js/api.js"></script>
+    <script src="assets/js/main.js"></script>
 </body>
+
 </html>
