@@ -19,24 +19,23 @@
     ],
     "education": [
         {
-            "training": "Tecnologia em Análise e Desenvolvimento de Sistemas",
-            "institution": "UNINASSAU",
+            "training": "Técnico em Finanças",
+            "institution": "Monsenhor Expedito da Silveira de Sousa",
             "period": {
-                "start": "2022",
-                "end": "2024"
+                "start": "2018",
+                "end": "2020"
             },
             "certificate": ""
         }
     ],
     "experience": [
         {
-            "name": "A procura da primeira experiência profissional",
-            "institution": "",
+            "name": "Estagio em Finanças",
+            "institution": "Monsenhor Expedito da Silveira de Sousa",
             "period": {
-                "start": "",
-                "end": ""
-            },
-            "description": "Quero aplicar meus conhecimentos, encarar novos desafios e evoluir em um ambiente que valorize aprendizado contínuo e colaboração."
+                "start": "01/2021",
+                "end": "06/2021"
+            }
         }
     ]
 }
