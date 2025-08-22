@@ -43,27 +43,27 @@ header .title,
 }
 
 .information .job::before {
-    background-image: url('../icons/job.svg');
+    background-image: url('../image/icons/job.svg');
 }
 
 .information .location::before {
-    background-image: url('../icons/location.svg');
+    background-image: url('../image/icons/location.svg');
 }
 
 .information .linkedin::before {
-    background-image: url('../icons/linkedin.svg');
+    background-image: url('../image/icons/linkedin.svg');
 }
 
 .information .resume::before {
-    background-image: url('../icons/resume.svg');
+    background-image: url('../image/icons/resume.svg');
 }
 
 .information .phone::before {
-    background-image: url('../icons/phone.svg');
+    background-image: url('../image/icons/phone.svg');
 }
 
 .information .email::before {
-    background-image: url('../icons/email.svg');
+    background-image: url('../image/icons/email.svg');
 }
 
 @media only screen and (min-width: 768px) {
