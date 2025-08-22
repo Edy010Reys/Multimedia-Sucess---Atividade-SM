@@ -1,0 +1,87 @@
+{
+    "name": "Francisco Edson.",
+    "photo": "https://avatars.githubusercontent.com/u/151585338?v=4",
+    "job": "Acadêmico em Ciência da Computação",
+    "location": "Pernambuco - BR",
+    "linkedin": "https://www.linkedin.com/in/josiel-alves/",
+    "resume": "https://drive.google.com/open?id=1ij6d_rBtsGfdLmyXkbppCzAxURgueERC&usp=drive_copy",
+    "phone": "",
+    "email": "josieljrr.dev@gmail.com",
+    "skills": {
+        "hardSkills": [
+            {
+                "name": "HTML5",
+                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/html.png"
+            },
+            {
+                "name": "CSS3",
+                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/css.png"
+            },
+            {
+                "name": "TailWind CSS",
+                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/tailwindcss.png"
+            }
+        ],
+        "softSkills": [
+            "Autogestão",
+            "Comunicação",
+            "Resolução de Problemas",
+            "Trabalho em Equipe"
+        ]
+    },
+    "languages": [
+        "Português (BR)"
+    ],
+    "education": [
+        {
+            "training": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+            "institution": "UNINASSAU",
+            "period": {
+                "start": "2022",
+                "end": "2024"
+            },
+            "certificate": ""
+        },
+        {
+            "training": "Bootcamp: Potência Tech iFood Programação do Zero",
+            "institution": "DIO",
+            "period": {
+                "start": "",
+                "end": ""
+            },
+            "certificate": "https://hermes.dio.me/certificates/65852430.pdf"
+        },
+        {
+            "training": "Formação Lógica de Programação",
+            "institution": "DIO",
+            "period": {
+                "start": "",
+                "end": ""
+            },
+            "certificate": "https://hermes.dio.me/certificates/BXGIQQHL.pdf"
+        }
+    ],
+    "portfolio": [
+        {
+            "name": "Currículo Digital - React e SCSS",
+            "url": "https://github.com/JosielJrr/curriculo-digital-react-scss",
+            "github": "true"
+        },
+        {
+            "name": "Spotify Home Page - React",
+            "url": "https://github.com/JosielJrr/spotify-homepage-react",
+            "github": "true"
+        }
+    ],
+    "experience": [
+        {
+            "name": "A procura da primeira experiência profissional",
+            "institution": "",
+            "period": {
+                "start": "",
+                "end": ""
+            },
+            "description": "Quero aplicar meus conhecimentos, encarar novos desafios e evoluir em um ambiente que valorize aprendizado contínuo e colaboração."
+        }
+    ]
+}
