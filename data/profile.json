@@ -8,60 +8,6 @@
     "phone": "",
     "email": "josieljrr.dev@gmail.com",
     "skills": {
-        "hardSkills": [
-            {
-                "name": "HTML5",
-                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/html.png"
-            },
-            {
-                "name": "CSS3",
-                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/css.png"
-            },
-            {
-                "name": "TailWind CSS",
-                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/tailwindcss.png"
-            },
-            {
-                "name": "BootStrap",
-                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/bootstrap.png"
-            },
-            {
-                "name": "SASS",
-                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/sass.png"
-            },
-            {
-                "name": "JavaScript",
-                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/js.png"
-            },
-            {
-                "name": "TypeScript",
-                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/ts.png"
-            },
-            {
-                "name": "React",
-                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/react.png"
-            },
-            {
-                "name": "Next.js",
-                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/nextjs.png"
-            },
-            {
-                "name": "Angular",
-                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/angular.png"
-            },
-            {
-                "name": "Git",
-                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/git.png"
-            },
-            {
-                "name": "Figma",
-                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/figma.png"
-            },
-            {
-                "name": "MySQL",
-                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/mysql.png"
-            }
-        ],
         "softSkills": [
             "Autogestão",
             "Comunicação",
