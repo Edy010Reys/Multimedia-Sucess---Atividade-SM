@@ -20,19 +20,17 @@
             "training": "Técnico em Finanças",
             "institution": "Monsenhor Expedito da Silveira de Sousa",
             "period": {
-                "start": "2018",
-                "end": "2020"
-            },
-            "certificate": ""
+                "start": "01/2018",
+                "end": "12/2020"
+            }
         },
         {
             "training": "Bacharelado em Ciência da Computação",
             "institution": "Universidade Estadual do Piauí",
             "period": {
-                "start": "2022",
+                "start": "04/2022",
                 "end": ""
-            },
-            "certificate": ""
+            }
         }
     ],
     "experience": [
