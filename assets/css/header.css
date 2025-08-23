@@ -68,12 +68,25 @@ header .photo {
 
     header .title {
         grid-area: title;
-        text-align: left;
-        max-width: 200px;
+        text-align: center;
     }
 
     header .information {
         grid-area: information;
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+
+    header .photo{
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;      
+    }
+
+    h1 {
+        text-align: center;
     }
 
 }
