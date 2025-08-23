@@ -1,2 +1,2 @@
-# Multimedia-Sucess---Atividade-SM
+# Cartão de Visita Eletrônico
 Atividade da disciplina de Sistemas Multimidia 
